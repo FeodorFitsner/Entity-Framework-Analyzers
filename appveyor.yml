@@ -1,0 +1,4 @@
+os: Visual Studio 2015
+
+install:
+- nuget restore EntityFrameworkAnalyzers.sln
