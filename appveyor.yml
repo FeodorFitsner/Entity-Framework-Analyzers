@@ -1,6 +1,6 @@
 #os: Visual Studio 2015
 #os: test
-os: Previous Visual Studio 2015
+os: Previous Visual Studio 2015 RC
 
 install:
 - nuget restore EntityFrameworkAnalyzers.sln
